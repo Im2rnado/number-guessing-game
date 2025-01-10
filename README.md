@@ -24,18 +24,6 @@ A fun and interactive number guessing game built with Python and Tkinter. This g
 - Tkinter
 - PIL (Python Imaging Library)
 
-## Installation
-
-1. Ensure Python is installed on your system
-2. Install required dependencies:
-```bash
-pip install pillow
-```
-3. Run the game:
-```bash
-python main.py
-```
-
 ## Contributors
 
 - Yassin Bedier
@@ -44,4 +32,4 @@ python main.py
 
 ## License
 
-This project is available for educational purposes.
+This project is licensed under the MIT License.
